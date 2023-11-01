@@ -28,7 +28,7 @@ tasks.test {
 }
 
 application {
-    mainClass.set("examples.MainKt")
+    mainClass.set("dnd.MainKt")
 }
 
 kotlin{
